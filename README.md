@@ -4,4 +4,4 @@
 This is a test	
 
 
-Featurei A added and updated.
+Feature A added and updated.
